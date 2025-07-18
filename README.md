@@ -4,6 +4,8 @@ Interdependent co-becoming is what explains existence
 **A Philosophy of Exchange, Emergence, and Meaning**  
 by **Python (Dr. Thin Aung Htwe)**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16090527.svg)](https://doi.org/10.5281/zenodo.16090527)
+
 ---
 
 ## 🪐 A Star is Born
@@ -153,4 +155,10 @@ If you would like to reuse or reference, please contact me.
 >
 > 
 https://doi.org/10.5281/zenodo.16086985
+
+## 📚 Citation
+
+If you use this work or refer to Polypragmatism, please cite:
+
+Thin Aung Htwe (Python). *Polypragmatism: A Manifesto of Exchange and Meaning*. Zenodo. https://doi.org/10.5281/zenodo.16090527
 
